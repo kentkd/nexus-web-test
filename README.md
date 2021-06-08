@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Nexus web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple application to display movies information using [OMDB API](https://www.omdbapi.com/).
+
+The application is in TypeScript, and bootstrapped using [CRA](https://create-react-app.dev/)
 
 ## Available Scripts
 
