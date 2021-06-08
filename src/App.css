@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.site-header {
+  padding: 40px 0;
+}
